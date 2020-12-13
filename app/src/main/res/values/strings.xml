@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">My Loan</string>
+
+    //Auth
+    <string name="username">Имя пользователя</string>
+    <string name="password">Пароль</string>
+    <string name="sign_in">Вход</string>
+    <string name="sign_up">Регистрация</string>
+
+    //Loan
+    <string name="loan_title">Оформление займа</string>
+    <string name="loan">Займ</string>
+    <string name="personal_data_title">Персональные данные</string>
+    <string name="last_name">Фамилия</string>
+    <string name="first_name">Имя</string>
+    <string name="phone_number">Номер телефона</string>
+    <string name="amount">Сумма займа</string>
+    <string name="conditions">Условия займа</string>
+    <string name="max_amount">Максимальная сумма займа</string>
+    <string name="period">Срок</string>
+    <string name="percent">Процент</string>
+    <string name="create_loan">Оформить займ</string>
+
+    //History
+    <string name="loans_history_title">История займов</string>
+    <string name="loans_history">История</string>
+
+    <string name="approved">Заявка одобрена</string>
+    <string name="registered">Заявка зарегистрирована</string>
+    <string name="rejected">Заявка отклонена</string>
+
+    //Settings
+    <string name="settings">Настройки</string>
+    <string name="theme">Темная тема</string>
+    <string name="language">Язык</string>
+    <string name="log_out">Выход</string>
+
+</resources>
